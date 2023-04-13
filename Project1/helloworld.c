@@ -473,5 +473,6 @@ int main()
 	}
 	printf("%d", count);
 	printf("\n");
+	printf("s");
 	return 0;
 }
